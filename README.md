@@ -11,3 +11,7 @@
   - Citation Request: Please include these citations if you plan to use this dataset: 
     - Amrieh, E. A., Hamtini, T., & Aljarah, I. (2016). Mining Educational Data to Predict Student’s academic Performance using Ensemble Methods. International Journal of Database Theory and Application, 9(8), 119-136.
     - Amrieh, E. A., Hamtini, T., & Aljarah, I. (2015, November). Preprocessing and analyzing educational data set using X-API for improving student's performance. In Applied Electrical Engineering and Computing Technologies (AEECT), 2015 IEEE Jordan Conference on (pp. 1-5). IEEE.
+
+3. [리그오브레전드 10분 데이터 분석을 통한 승리 예측](https://github.com/solwish/TIL_machine-learning/blob/main/%EB%A6%AC%EA%B7%B8%EC%98%A4%EB%B8%8C%EB%A0%88%EC%A0%84%EB%93%9C%2010%EB%B6%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%8A%B9%EB%A6%AC%20%EC%98%88%EC%B8%A1.ipynb)
+  - 데이터 출처 : https://www.kaggle.com/bobbyscience/league-of-legends-diamond-ranked-games-10-min
+  - 개요 : League of Legends is a MOBA (multiplayer online battle arena) where 2 teams (blue and red) face off. There are 3 lanes, a jungle, and 5 roles. The goal is to take down the enemy Nexus to win the game.
