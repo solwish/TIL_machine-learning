@@ -16,6 +16,15 @@
   - 데이터 출처 : https://www.kaggle.com/bobbyscience/league-of-legends-diamond-ranked-games-10-min
   - 개요 : League of Legends is a MOBA (multiplayer online battle arena) where 2 teams (blue and red) face off. There are 3 lanes, a jungle, and 5 roles. The goal is to take down the enemy Nexus to win the game.
 
-4. [유럽 축구 리그 승패 예측 ](https://github.com/solwish/TIL_machine-learning/blob/main/%EC%9C%A0%EB%9F%BD%20%EC%B6%95%EA%B5%AC%20%EB%A6%AC%EA%B7%B8%20%EC%8A%B9%ED%8C%A8%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8.ipynb)
+4. [유럽 축구 리그 승패 예측](https://github.com/solwish/TIL_machine-learning/blob/main/%EC%9C%A0%EB%9F%BD%20%EC%B6%95%EA%B5%AC%20%EB%A6%AC%EA%B7%B8%20%EC%8A%B9%ED%8C%A8%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8.ipynb)
   - 데이터 출처 : https://www.kaggle.com/hugomathien/soccer
   - 개요 : +25,000 matches, +10,000 players, 11 European Countries with their lead championship, Seasons 2008 to 2016, Players and Teams' attributes(16th Oct 2016) sourced from EA Sports' FIFA video game series, including the weekly updates, Team line up with squad formation (X, Y coordinates)
+
+5. [인구 통계데이터를 통한 미국지역별 대선 투표 예측](https://github.com/solwish/TIL_machine-learning/blob/main/%EC%9D%B8%EA%B5%AC%20%ED%86%B5%EA%B3%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%ED%86%B5%ED%95%9C%20%EB%AF%B8%EA%B5%AD%EC%A7%80%EC%97%AD%EB%B3%84%20%EB%8C%80%EC%84%A0%20%ED%88%AC%ED%91%9C%20%EC%98%88%EC%B8%A1.ipynb)
+  - 대선 데이터 출처: https://www.kaggle.com/unanimad/us-election-2020
+  - 인구조사 데이터 출처: https://www.kaggle.com/muonneutrino/us-census-demographic-data
+  - 개요
+    - The 2020 United States presidential election was the 59th quadrennial presidential election, held on Tuesday, November 3, 2020. To win the election, the candidate needs 270 out of 538 electoral votes.
+    - The data here are taken from the DP03 and DP05 tables of the 2015 American Community Survey 5-year estimates. The full datasets and much more can be found at the American Factfinder website. 
+
+ 
