@@ -34,6 +34,12 @@
     - This data contains most all relevant information that Craigslist provides on car sales including columns like price, condition, manufacturer, latitude/longitude, and 18 other categories.
     - you can see more https://github.com/AustinReese/UsedVehicleSearch
 
+7. [(회귀)에어비엔비 데이터를 통한 가격 예측](https://github.com/solwish/TIL_machine-learning/blob/main/%EC%97%90%EC%96%B4%EB%B9%84%EC%97%94%EB%B9%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%ED%86%B5%ED%95%9C%20%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1.ipynb)
+  - 데이터 출처: https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+  - 개요
+    - Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019.
+    - This data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.
+
 
 
 
