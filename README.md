@@ -41,7 +41,12 @@
     - This data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.
 
 
-
+8. [(회귀)과년도 데이터를 학습하여 현년도 행복지수 예측하기](https://github.com/solwish/TIL_machine-learning/blob/main/%EA%B3%BC%EB%85%84%EB%8F%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%ED%95%99%EC%8A%B5%ED%95%98%EC%97%AC%20%ED%98%84%EB%85%84%EB%8F%84%20%ED%96%89%EB%B3%B5%EC%A7%80%EC%88%98%20%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0.ipynb)
+  - 데이터 출처: https://www.kaggle.com/mathurinache/world-happiness-report
+  - 개요
+    - This file contains the Happiness Score for 153 countries along with the factors used to explain the score. The Happiness Score is a national average of the responses to the main life evaluation question asked in the Gallup World Poll (GWP), which uses the Cantril Ladder.
+  - Citation
+    - Helliwell, John F., Richard Layard, Jeffrey Sachs, and Jan-Emmanuel De Neve, eds. 2020. World Happiness Report 2020. New York: Sustainable Development Solutions Network
 
 
  
