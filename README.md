@@ -48,5 +48,9 @@
   - Citation
     - Helliwell, John F., Richard Layard, Jeffrey Sachs, and Jan-Emmanuel De Neve, eds. 2020. World Happiness Report 2020. New York: Sustainable Development Solutions Network
 
+9. [(회귀)게임 데이터로 판매량 및 유저점수 예측하기](https://github.com/solwish/TIL_machine-learning/blob/main/%EA%B2%8C%EC%9E%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C%20%ED%8C%90%EB%A7%A4%EB%9F%89%20%EB%B0%8F%20%EC%9C%A0%EC%A0%80%EC%A0%90%EC%88%98%20%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0.ipynb)
+  - 데이터 출처: https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
+  - 개요
+    - This data set simply extends the number of variables with another web scrape from [Metacritic](https://www.metacritic.com/browse/games/release-date/available).
 
  
