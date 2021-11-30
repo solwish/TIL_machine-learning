@@ -53,4 +53,13 @@
   - 개요
     - This data set simply extends the number of variables with another web scrape from [Metacritic](https://www.metacritic.com/browse/games/release-date/available).
 
+10. [(시계열)과거 코로나19 데이터를 통한 확진자 및 사망자 수 예측하기](https://github.com/solwish/TIL_machine-learning/blob/main/%EA%B3%BC%EA%B1%B0%20%EC%BD%94%EB%A1%9C%EB%82%9819%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%ED%86%B5%ED%95%9C%20%ED%99%95%EC%A7%84%EC%9E%90%20%EB%B0%8F%20%EC%82%AC%EB%A7%9D%EC%9E%90%20%EC%88%98%20%EC%98%88%EC%B8%A1.ipynb)
+  - 데이터 출처: https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university
+  - 개요
+    - This is a daily Data of COVID-19 by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU).
+    - The data covers:
+      - confirmed cases and deaths on a country level
+      - confirmed cases and deaths by US county
+      - some metadata that's available in the raw JHU data.
+
  
