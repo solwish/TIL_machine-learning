@@ -62,4 +62,8 @@
       - confirmed cases and deaths by US county
       - some metadata that's available in the raw JHU data.
 
- 
+ 11. [(그리드서치)철판 제조 공정 데이터를 활용한 불량품 분류](https://github.com/solwish/TIL_machine-learning/blob/main/%EC%B2%A0%ED%8C%90%20%EC%A0%9C%EC%A1%B0%20%EA%B3%B5%EC%A0%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%B6%88%EB%9F%89%ED%92%88%20%EB%B6%84%EB%A5%98.ipynb)
+  - 데이터 출처: https://www.kaggle.com/mahsateimourikia/faults-nna/notebooks
+  - 개요
+    - This data contains manufacturing information of Iron & steel plates.
+
