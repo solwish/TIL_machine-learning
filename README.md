@@ -67,3 +67,7 @@
   - 개요
     - This data contains manufacturing information of Iron & steel plates.
 
+ 12. [(군집)군집분석 기본기 연습하기](https://github.com/solwish/TIL_machine-learning/blob/main/%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D(clustering)%20%EC%97%B0%EC%8A%B5%ED%95%98%EA%B8%B0.ipynb)
+  - 데이터 출처: 파이썬 라이브러리(sklearn.datasets)
+  - 개요
+    - 비지도 학습인 군집분석에 대한 기본기 연습
